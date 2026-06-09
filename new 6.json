@@ -1,0 +1,23 @@
+[  
+	{
+    "CampaignCode": "TLOMS062026",
+    "CustomerCode": "0007142",
+    "ShipToCode": "0007142",
+    "Type": 1,
+    "Level": 1,
+    "AccumulateBy": "W",
+    "Target": 1000,
+    "Quantity": 5760,
+    "UnitMeasure": "KG",
+    "ConditionName": "TLOMS062026",
+    "ConditionType": null,
+    "Condition": null,
+    "FailMonth": null,
+    "noJoinMonth": null,
+    "frequencyCode": "P_TLOMS062026",
+    "totalOkMonth": null,
+    "OkMonth": null,
+    "Result": null,
+    "Prorate": "M"
+  }
+]
